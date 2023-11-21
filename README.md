@@ -1,7 +1,5 @@
 # Booking-Cancellation_Analysis
 
-# Booking-Cancellation-Analysis
-
 **Overview**
 
 Predictive analysis of booking cancellations at Vera Selection Resort using machine learning to identify key cancellation factors and recommend strategies to reduce them.
